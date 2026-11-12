@@ -232,12 +232,13 @@ h3 {
 
 .mv h1 {
   color: var(--c-sub);
-  font-size: clamp(100px, 71.831px + 7.512vw, 180px);
+  /* font-size: clamp(100px, calc(71.831px + 7.512vw), 180px); */
+  font-size: clamp(80px, 70px + 3.125vw, 110px);
   font-family: var(--ff-title);
   writing-mode: vertical-lr;
   letter-spacing: 0.1em;
   position: absolute;
-  top: 12%;
+  top: 15%;
   right: 4%;
 }
 
