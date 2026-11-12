@@ -233,7 +233,7 @@ h3 {
 .mv h1 {
   color: var(--c-sub);
   /* font-size: clamp(100px, calc(71.831px + 7.512vw), 180px); */
-  font-size: clamp(60px, 20px + 12.5vw, 180px);
+  font-size: clamp(70px, 43.3333px + 8.3333vw, 150px);
   font-family: var(--ff-title);
   writing-mode: vertical-lr;
   letter-spacing: 0.1em;
